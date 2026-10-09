@@ -1,0 +1,1 @@
+var e=`/assets/zatisie-uteraky-BtaPyyxF.jpg`;export{e as t};

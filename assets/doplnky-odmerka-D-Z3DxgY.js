@@ -1,0 +1,1 @@
+var e=`/assets/doplnky-odmerka-Dr80FDQu.jpg`;export{e as t};

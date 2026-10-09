@@ -1,0 +1,1 @@
+var e=`/assets/detail-lan-Bkv_QRIN.jpg`;export{e as t};

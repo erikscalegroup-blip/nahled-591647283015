@@ -1,0 +1,1 @@
+var e=`/assets/avivaze-bielizen-DQAYa7wl.jpg`;export{e as t};
